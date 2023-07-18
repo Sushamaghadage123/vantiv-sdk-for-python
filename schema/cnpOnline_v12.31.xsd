@@ -427,6 +427,6 @@
                 </xs:extension>
             </xs:complexContent>
         </xs:complexType>
-   </xs:element>
+    </xs:element>
 -->
 </xs:schema>
